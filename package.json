@@ -1,6 +1,6 @@
 {
   "name": "is-date-calculator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Calculator for dates. Add , Subtract and find difference between two dates.",
   "main": "index.js",
   "scripts": {
